@@ -2,7 +2,7 @@
 
 This repository contains the design and layout of a **10-transistor (10T) SRAM cell** optimized for **low power consumption**, **high stability**, and **enhanced performance**, implemented using **Cadence Virtuoso** with the **GPDK 90nm** technology node.
 
-![Simulation Screenshot](https://github.com/Muragharajendra/SRAM-Layout-Design/blob/main/Picture.png)
+![Simulation Screenshot](https://github.com/Muragharajendra/SRAM-Layout-Design/blob/main/Cadence%20-%20VMware%20Workstation%2024-12-2024%2011.21.55%20AM.png)
 
 ---
 
