@@ -26,7 +26,7 @@ Static Random Access Memory (SRAM) is a key element in SoC design. Conventional 
 
 ## 🧩 Schematic
 
-![SRAM Schematic](https://github.com/Muragharajendra/SRAM-Layout-Design/blob/main/download.png)
+![SRAM Schematic](https://github.com/Muragharajendra/SRAM-Layout-Design/blob/main/Schematic.png)
 
 ---
 
@@ -34,7 +34,7 @@ Static Random Access Memory (SRAM) is a key element in SoC design. Conventional 
 
 Meticulously optimized layout for area, performance, and power.
 
-![SRAM Layout](https://github.com/Muragharajendra/SRAM-Layout-Design/blob/main/Cadence%20-%20VMware%20Workstation%2024-12-2024%2011.23.23%20AM.png)
+![SRAM Layout](https://github.com/Muragharajendra/SRAM-Layout-Design/blob/main/Extracted-Layout.png)
 
 ---
 
@@ -67,5 +67,4 @@ This SRAM design is ideal for:
 
 ---
 
-## 📂 Project Structure
 
